@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YosenFree&show_icons=true&rank_icon=github&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
-<img align="middle" alt="GIF" src="https://github.com/YosenFree/YosenFree/blob/main/logo.png" />
+<img align="middle" alt="GIF" src="https://github.com/YosenFree/YosenFree/blob/6e3d1ce144ddbde6913c2ccf3feab4bf5199be35/logo1.png" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YosenFree&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
