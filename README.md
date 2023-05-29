@@ -1,6 +1,6 @@
-# welcome to YosenFree  <img align="right" alt="PNG" src="https://github.com/YosenFree/YosenFree/blob/c3ec0c8cdbd811c2f4a5c9be40d647206a4814eb/logo2.png" />
+# Welcome To YosenFree  <img align="right" alt="PNG" src="https://github.com/YosenFree/YosenFree/blob/c3ec0c8cdbd811c2f4a5c9be40d647206a4814eb/logo2.png" />
 
-### 我啊，每到周一，就会失去所有快乐的记忆。
+### 我啊，我啊，每到周一，就会失去所有快乐的记忆...
 
 <!--
 **YosenFree/YosenFree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
