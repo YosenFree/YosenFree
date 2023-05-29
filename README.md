@@ -1,4 +1,4 @@
-# welcome to YosenFree  <img align="right" alt="PNG" src="https://github.com/YosenFree/YosenFree/blob/ad0c9c0bfed1f9019c70dadd2975e2ae55ca652d/logo.png" />
+# welcome to YosenFree  <img align="right" alt="PNG" src="https://github.com/YosenFree/YosenFree/blob/c3ec0c8cdbd811c2f4a5c9be40d647206a4814eb/logo2.png" />
 
 ### 我啊，每到周一，就会失去所有快乐的记忆。
 
